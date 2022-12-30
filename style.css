@@ -1,0 +1,22 @@
+body {
+  background: url(img/bg.jpeg) no-repeat center;
+  background-size: cover;
+}
+.contain {
+  background: rgba(255,255,255, 0.74);
+  padding:10px;
+  margin:20px 40px;
+  border-radius: 10px;
+}
+table , td{
+  border: solid 1px black;
+}
+a {
+  text-decoration: none;
+}
+.img {
+  width: 400px;
+}
+img {
+  width: 100%;
+}
