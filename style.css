@@ -20,3 +20,22 @@ a {
 img {
   width: 100%;
 }
+h1, h2, h3 {
+  text-align: center;
+}
+.block-text {
+  display: block;
+}
+.underline-text {
+  text-decoration: underline;
+}
+.line-through-text {
+  text-decoration: line-through;
+}
+.bold-text {
+  font-weight: bold;
+}
+.italic-text {
+  font-style: italic;
+}
+
